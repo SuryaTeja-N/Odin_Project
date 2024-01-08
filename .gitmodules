@@ -1,0 +1,3 @@
+[submodule "css-basics-practise"]
+	path = css-basics-practise
+	url = https://github.com/TheOdinProject/css-exercises.git
