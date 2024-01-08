@@ -8,6 +8,10 @@
   font-family: Arial, sans-serif;
 }
 
+#b1:hover {
+  transform: scale(1.4);
+}
+
 button {
   border-radius: 8px;
   border: none;
