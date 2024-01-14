@@ -43,6 +43,23 @@ a {
   color: rebeccapurple;
 }
 
+
+/* solution */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
+
 ul {
   list-style-type: none;
+  display: flex;
+  gap : 10px;
+}
+
+.left, .right{
+  display: flex;
+  justify-content: space-between;
+  gap : 50px;
 }
